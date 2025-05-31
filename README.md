@@ -1,6 +1,6 @@
 # 🔍 AWS Resource-Based Policy Enumerator
 
-A Python-based tool to **automatically enumerate resource-based IAM policies** across AWS services.  
+A Python-based tool to **automatically enumerate resource-based policies** across AWS services.  
 Created to fill a gap I noticed during cloud enumeration workflow where I over looked resource-based policies were often overlooked.
 This script was built with prompt engineering :)
 
@@ -58,3 +58,7 @@ pip3 install boto3
 ```
 
 You're now ready to run the enumerator!
+
+## 4. Others
+
+https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html
