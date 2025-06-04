@@ -1,6 +1,6 @@
 # 🔍 AWS Resource-Based Policy Enumerator
 
-A Python-based tool to **automatically enumerate resource-based policies** across AWS services.  
+A Python-based tool to **automatically enumerate resource based policies** across AWS services.  
 Created to fill a gap I noticed during cloud enumeration workflow where I over looked resource-based policies were often overlooked.
 This script was built with prompt engineering :)
 
